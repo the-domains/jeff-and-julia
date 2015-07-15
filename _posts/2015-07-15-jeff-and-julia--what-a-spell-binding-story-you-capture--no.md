@@ -7,7 +7,7 @@ description: 'Jeff and Julia … what a spell-binding story you capture … not 
 author: []
 datePublished: '2015-07-15T22:05:04.844Z'
 title: ''
-dateModified: '2015-07-15T22:06:22.967Z'
+dateModified: '2015-07-15T22:07:05.780Z'
 sourcePath: _posts/2015-07-15-jeff-and-julia--what-a-spell-binding-story-you-capture--no.md
 published: true
 authors: []
@@ -16,7 +16,8 @@ publisher:
   domain: www.stylemepretty.com
   url: null
   favicon: null
-_type: MediaObject
+url: jeff-and-julia--what-a-spell-binding-story-you-capture--no/index.html
+_type: Article
 _context: 'http://schema.org'
 
 ---
