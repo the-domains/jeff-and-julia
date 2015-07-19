@@ -9,7 +9,7 @@ datePublished: '2015-07-19T06:29:13.632Z'
 title: Black Label from Jeffrey and Julia Woods
 tags:
   - ''
-dateModified: '2015-07-19T06:31:50.354Z'
+dateModified: '2015-07-19T06:36:46.162Z'
 sourcePath: _posts/2015-07-19-black-label-from-jeffrey-and-julia-woods.md
 published: true
 authors: []
