@@ -58,7 +58,7 @@ app_links: []
 isBasedOnUrl: 'http://www.stylemepretty.com/illinois-weddings/chicago/2012/01/25/galleria-marchetti-wedding-by-jeffrey-and-julia-woods/'
 title: Galleria Marchetti Wedding by Jeffrey and Julia Woods
 datePublished: '2015-07-19T08:27:41.981Z'
-dateModified: '2015-07-19T08:27:41.981Z'
+dateModified: '2015-07-19T20:36:14.058Z'
 sourcePath: _posts/2015-07-19-galleria-marchetti-wedding-by-jeffrey-and-julia-woods.md
 published: true
 _context: 'http://schema.org'
