@@ -1,7 +1,7 @@
 name: null
 favicon: null
-layout_spectrum: 0.03839
-typography_spectrum: 0.99864
+layout_spectrum: 0.01107
+typography_spectrum: 0.32472
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#c4c8b3'
   brandStrength: 0
   lightness: 0.8125
-  saturation: 0.5
+  saturation: 0.4375
   rhythmicContrast: 0.25
 purpose: []
