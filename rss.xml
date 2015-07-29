@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>http://thewoods.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jul 2015 16:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2015 16:50:05 GMT</lastBuildDate>
         <atom:link href="http://thewoods.today/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meggie + Jeff say I do in Chicago]]></title>
+            <description><![CDATA[<article><h1>Meggie + Jeff say I do in Chicago</h1><img src="http://www.jeffreyandjuliawoods.com/blog/20140405_MB-387jw.jpg"></article>]]></description>
+            <link>http://thewoods.today/b1abe84f-2476-4927-afba-9606e81745bb/index.html</link>
+            <guid isPermaLink="false">b1abe84f-2476-4927-afba-9606e81745bb</guid>
+            <pubDate>Wed, 29 Jul 2015 16:49:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[View more of our work http://jeffreyandjuliawoods.com/]]></title>
             <description><![CDATA[<article><h1>View more of our work http://jeffreyandjuliawoods.com/</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0c5750e-40e1-4773-a3d1-e207d0e61fa7.jpg"></article>]]></description>
