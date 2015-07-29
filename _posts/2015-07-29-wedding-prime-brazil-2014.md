@@ -9,17 +9,16 @@ datePublished: '2015-07-29T00:36:30.364Z'
 title: Wedding Prime Brazil 2014
 tags:
   - ''
+dateModified: '2015-07-29T15:41:48.546Z'
+sourcePath: _posts/2015-07-29-wedding-prime-brazil-2014.md
+published: true
 authors: []
 publisher:
   name: blogweddingbrasil.com.br
   domain: blogweddingbrasil.com.br
   url: null
   favicon: null
-dateModified: '2015-07-29T00:36:30.364Z'
-sourcePath: _posts/2015-07-29-wedding-prime-brazil-2014.md
-published: true
-url: wedding-prime-brazil-2014/index.html
-_type: Article
+_type: MediaObject
 _context: 'http://schema.org'
 
 ---
