@@ -15,7 +15,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-dateModified: '2015-07-30T05:20:38.071Z'
+dateModified: '2015-07-30T05:22:50.943Z'
 sourcePath: _posts/2015-07-30-black-label-a-visual-from-jeffrey-and-julia-woods.md
 published: true
 url: ~black-label~-a-visual-from-jeffrey-and-julia-woods/index.html
