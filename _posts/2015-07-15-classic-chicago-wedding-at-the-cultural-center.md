@@ -33,16 +33,19 @@ related:
 app_links: []
 title: Classic Chicago Wedding at the Cultural Center
 datePublished: '2015-07-15T21:41:12.101Z'
-dateModified: '2015-07-30T05:01:47.146Z'
+dateModified: '2015-07-30T16:40:36.806Z'
 sourcePath: _posts/2015-07-15-classic-chicago-wedding-at-the-cultural-center.md
 published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: Style Me Pretty
   domain: www.stylemepretty.com
   url: 'http://www.stylemepretty.com'
   favicon: 'http://cache.stylemepretty.com/images/favicon_32.png'
-_type: MediaObject
+url: classic-chicago-wedding-at-the-cultural-center/index.html
+_type: Article
 _context: 'http://schema.org'
 
 ---
