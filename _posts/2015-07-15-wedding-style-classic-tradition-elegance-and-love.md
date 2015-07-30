@@ -1,4 +1,19 @@
 ---
+isBasedOnUrl: 'http://www.stylemepretty.com/little-black-book-blog/2009/01/28/wedding-style-classic-tradition-elegance-and-love/'
+inLanguage: en
+starred: false
+keywords:
+  - ashley
+  - cake
+  - wedding
+  - andrew
+  - julia
+  - peoria
+  - groom
+  - shirt
+  - bride
+  - lace
+description: 'Sometimes, words fail. That is when the memories take over. A classically beautiful wedding from Jeffrey and Julia Woods ... Jeffrey and Julia Woods are to weddings ... what love is to marriage. A team. A fusion of style, emotion and tradition ... with hearts full of passion.'
 author: []
 related:
   - score: 0.6105814576
@@ -36,33 +51,20 @@ related:
     thumbnail_height: 360
     thumbnail_url: 'http://static.digg.com/images/51c0fee15f9e450fa78b652ac0a9ba59_599d200d776a765d2851f558a5327d22_1_social_large.jpeg'
     thumbnail_width: 661
-publisher:
-  url: 'http://www.stylemepretty.com'
-  name: Style Me Pretty
-  favicon: 'http://cache.stylemepretty.com/images/favicon_32.png'
-  domain: www.stylemepretty.com
-keywords:
-  - ashley
-  - cake
-  - wedding
-  - andrew
-  - julia
-  - peoria
-  - groom
-  - shirt
-  - bride
-  - lace
-description: 'Sometimes, words fail. That is when the memories take over. A classically beautiful wedding from Jeffrey and Julia Woods ... Jeffrey and Julia Woods are to weddings ... what love is to marriage. A team. A fusion of style, emotion and tradition ... with hearts full of passion.'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.stylemepretty.com/little-black-book-blog/2009/01/28/wedding-style-classic-tradition-elegance-and-love/'
 title: 'Wedding Style: Classic Tradition, Elegance and Love'
 datePublished: '2015-07-15T21:17:34.321Z'
-dateModified: '2015-07-15T21:17:34.321Z'
+dateModified: '2015-07-30T04:51:41.261Z'
 sourcePath: _posts/2015-07-15-wedding-style-classic-tradition-elegance-and-love.md
 published: true
-_context: 'http://schema.org'
+authors: []
+publisher:
+  name: Style Me Pretty
+  domain: www.stylemepretty.com
+  url: 'http://www.stylemepretty.com'
+  favicon: 'http://cache.stylemepretty.com/images/favicon_32.png'
 _type: MediaObject
+_context: 'http://schema.org'
 
 ---
 <article style=""><h1>Wedding Style&amp;colon; Classic Tradition&amp;comma; Elegance and Love</h1><p>Sometimes&amp;comma; words fail&amp;period; That is when the memories take over&amp;period; A classically beautiful wedding from Jeffrey and Julia Woods &amp;period;&amp;period;&amp;period; Jeffrey and Julia Woods are to weddings &amp;period;&amp;period;&amp;period; what love is to marriage&amp;period; A team&amp;period; A fusion of style&amp;comma; emotion and tradition &amp;period;&amp;period;&amp;period; with hearts full of passion&amp;period;</p><img src="http://o.aolcdn.com/smp/cache/wp-content/uploads/2009/01/jj31.jpg" /></article>
