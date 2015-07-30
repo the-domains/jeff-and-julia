@@ -15,7 +15,7 @@ publisher:
   domain: junebugweddings.com
   url: null
   favicon: null
-dateModified: '2015-07-30T05:57:58.486Z'
+dateModified: '2015-07-30T16:35:11.770Z'
 sourcePath: _posts/2015-07-30-junebug-weddings-feature-from-jeff-and-julia-woods.md
 published: true
 url: junebug-weddings-feature-from-jeff-and-julia-woods/index.html
