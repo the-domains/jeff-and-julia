@@ -1,4 +1,19 @@
 ---
+isBasedOnUrl: 'http://www.stylemepretty.com/illinois-weddings/chicago/2014/08/07/classic-chicago-wedding-at-the-cultural-center/'
+inLanguage: en
+starred: false
+keywords:
+  - chicago
+  - wedding
+  - linen
+  - venue
+  - bridesmaid
+  - floral
+  - tiffany
+  - heffernan
+  - greenery
+  - designs
+description: 'Classic and Chicago weddings just go hand in hand. That city just knows how to host a timeless fête. Case and point? This beauty of a wedding captured by Jeffrey And Julia Woods at the Chicago Cultural Center. Complete with florals from Heffernan Morgan Designs and a reception that will make you swoon, this gallery will have you thanking your lucky [...]'
 author: []
 related:
   - score: 0.5148403645
@@ -15,33 +30,20 @@ related:
     thumbnail_height: 441
     thumbnail_url: 'http://assets-s3.usmagazine.com/uploads/assets/articles/89547-nicky-hilton-sees-an-elephant-on-her-honeymoon-with-james-rothschild/promo/1436915268_nicky-hilton-441.jpg'
     thumbnail_width: 350
-publisher:
-  url: 'http://www.stylemepretty.com'
-  name: Style Me Pretty
-  favicon: 'http://cache.stylemepretty.com/images/favicon_32.png'
-  domain: www.stylemepretty.com
-keywords:
-  - chicago
-  - wedding
-  - linen
-  - venue
-  - bridesmaid
-  - floral
-  - tiffany
-  - heffernan
-  - greenery
-  - designs
-description: 'Classic and Chicago weddings just go hand in hand. That city just knows how to host a timeless fête. Case and point? This beauty of a wedding captured by Jeffrey And Julia Woods at the Chicago Cultural Center. Complete with florals from Heffernan Morgan Designs and a reception that will make you swoon, this gallery will have you thanking your lucky [...]'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.stylemepretty.com/illinois-weddings/chicago/2014/08/07/classic-chicago-wedding-at-the-cultural-center/'
 title: Classic Chicago Wedding at the Cultural Center
 datePublished: '2015-07-15T21:41:12.101Z'
-dateModified: '2015-07-15T21:41:12.101Z'
+dateModified: '2015-07-30T05:01:47.146Z'
 sourcePath: _posts/2015-07-15-classic-chicago-wedding-at-the-cultural-center.md
 published: true
-_context: 'http://schema.org'
+authors: []
+publisher:
+  name: Style Me Pretty
+  domain: www.stylemepretty.com
+  url: 'http://www.stylemepretty.com'
+  favicon: 'http://cache.stylemepretty.com/images/favicon_32.png'
 _type: MediaObject
+_context: 'http://schema.org'
 
 ---
 <article style=""><h1>Classic Chicago Wedding at the Cultural Center</h1><p>Classic and Chicago weddings just go hand in hand&amp;period; That city just knows how to host a timeless fête&amp;period; Case and point&amp;quest; This beauty of a wedding captured by Jeffrey And Julia Woods at the Chicago Cultural Center&amp;period; Complete with florals from Heffernan Morgan Designs and a reception that will make you swoon&amp;comma; this gallery will have you thanking your lucky &amp;lsqb;&amp;period;&amp;period;&amp;period;&amp;rsqb;</p><img src="http://o.aolcdn.com/smp/is/wp-content/gallery/ibb/ashaughn/ibb-1407346332.5056.28410$!600x.jpg" /></article>
