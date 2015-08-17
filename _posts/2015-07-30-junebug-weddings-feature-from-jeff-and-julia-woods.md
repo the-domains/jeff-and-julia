@@ -9,15 +9,15 @@ datePublished: '2015-07-30T05:57:58.486Z'
 title: Junebug Weddings feature from Jeff and Julia Woods
 tags:
   - ''
+dateModified: '2015-08-17T23:54:56.789Z'
+sourcePath: _posts/2015-07-30-junebug-weddings-feature-from-jeff-and-julia-woods.md
+published: true
 authors: []
 publisher:
   name: junebugweddings.com
   domain: junebugweddings.com
   url: null
   favicon: null
-dateModified: '2015-07-31T23:10:25.911Z'
-sourcePath: _posts/2015-07-30-junebug-weddings-feature-from-jeff-and-julia-woods.md
-published: true
 url: junebug-weddings-feature-from-jeff-and-julia-woods/index.html
 _type: Article
 _context: 'http://schema.org'
