@@ -17,8 +17,8 @@ keywords:
   - vintage
   - dresses
 description: "We're totally loving the bits of vintage chic mixed with a dash of whimsy that give this floral filled fete such a unique look. The ladies at Bliss Weddings and Events truly outdid themselves with the design and planning and we can't get enough of the ribbon-tied balloons and pretty mercury glass candlesticks."
-datePublished: '2015-12-24T09:02:12.509Z'
-dateModified: '2015-12-24T09:02:08.789Z'
+datePublished: '2015-12-25T17:33:23.436Z'
+dateModified: '2015-12-25T17:33:19.965Z'
 author: []
 related: []
 app_links: []
