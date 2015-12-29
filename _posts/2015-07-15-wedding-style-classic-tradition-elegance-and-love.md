@@ -53,7 +53,7 @@ related:
     thumbnail_width: 661
 app_links: []
 title: 'Wedding Style: Classic Tradition, Elegance and Love'
-datePublished: '2015-07-15T21:17:34.321Z'
+datePublished: '2015-12-29T03:23:24.035Z'
 dateModified: '2015-07-30T04:51:41.261Z'
 sourcePath: _posts/2015-07-15-wedding-style-classic-tradition-elegance-and-love.md
 published: true
@@ -63,6 +63,9 @@ publisher:
   domain: www.stylemepretty.com
   url: 'http://www.stylemepretty.com'
   favicon: 'http://cache.stylemepretty.com/images/favicon_32.png'
+inFeed: true
+hasPage: false
+inNav: false
 _type: MediaObject
 _context: 'http://schema.org'
 
