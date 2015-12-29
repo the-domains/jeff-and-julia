@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/109507603'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Confira os melhores momentos do Wedding Prime 2014, um evento que proporcionou experiências incomparáveis para fotógrafos de casamento em um confortável e belíssimo cenário. O Wedding Prime é um programa avançado de capacitação e reciclagem profissional. Com um formato único no Brasil, ele proporciona uma forte vivência na fotografia de casamento, a qual nenhum outro já proporcionou.'
+datePublished: '2015-12-29T07:22:42.849Z'
+dateModified: '2015-12-29T07:22:39.558Z'
 author:
   - name: Editora Photos
     url: 'http://vimeo.com/editoraphotos'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'Confira os melhores momentos do Wedding Prime 2014, um evento que proporcionou experiências incomparáveis para fotógrafos de casamento em um confortável e belíssimo cenário. O Wedding Prime é um programa avançado de capacitação e reciclagem profissional. Com um formato único no Brasil, ele proporciona uma forte vivência na fotografia de casamento, a qual nenhum outro já proporcionou.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/109507603'
     type: ios
@@ -21,15 +24,15 @@ app_links:
     type: web
     app_name: Vimeo
     package: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/109507603'
 title: Melhores Momentos Wedding Prime 2014
-datePublished: '2015-12-29T06:15:17.483Z'
-dateModified: '2015-12-29T06:08:48.179Z'
 sourcePath: _posts/2015-12-29-melhores-momentos-wedding-prime-2014.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
