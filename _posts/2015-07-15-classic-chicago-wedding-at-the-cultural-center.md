@@ -1,5 +1,4 @@
 ---
-isBasedOnUrl: 'http://www.stylemepretty.com/illinois-weddings/chicago/2014/08/07/classic-chicago-wedding-at-the-cultural-center/'
 inLanguage: en
 starred: false
 keywords:
@@ -32,7 +31,7 @@ related:
     thumbnail_width: 350
 app_links: []
 title: Classic Chicago Wedding at the Cultural Center
-datePublished: '2015-07-15T21:41:12.101Z'
+datePublished: '2015-12-29T03:23:30.284Z'
 dateModified: '2015-07-30T16:40:36.806Z'
 sourcePath: _posts/2015-07-15-classic-chicago-wedding-at-the-cultural-center.md
 published: true
@@ -44,6 +43,9 @@ publisher:
   domain: www.stylemepretty.com
   url: 'http://www.stylemepretty.com'
   favicon: 'http://cache.stylemepretty.com/images/favicon_32.png'
+inFeed: true
+hasPage: true
+inNav: false
 url: classic-chicago-wedding-at-the-cultural-center/index.html
 _type: Article
 _context: 'http://schema.org'
