@@ -1,6 +1,6 @@
 name: Jeff and Julia
 favicon: null
-layout_spectrum: 0.49662
+layout_spectrum: 0.69408
 typography_spectrum: 0.79709
 title: The Woods Today
 cta:
@@ -22,7 +22,7 @@ color:
     - '#b0aac2'
     - '#fefefe'
     - '#cdc4d1'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 1
   saturation: 0.375
   rhythmicContrast: 0.5
