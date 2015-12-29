@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.stylemepretty.com/2010/10/15/indiana-wedding-by-jeffrey-and-julia-woods/'
+inLanguage: en
+starred: false
+keywords:
+  - wedding
+  - reception
+  - love
+  - julia
+  - bride
+  - groom
+  - indiana
+  - paper
+  - kuhlman
+  - mok
+description: "Obsessed doesn't even BEGIN to describe how I feel about this next wedding, photographed to perfection by Jeffrey and Julia Woods...two of our most loved Little Black Book photographers. This wedding is like the mecca of gorgeousness, with ideas and inspirations that you've seen around the web applied in such a cool, totally unique way."
+datePublished: '2015-12-29T07:23:24.311Z'
+dateModified: '2015-12-29T07:23:21.379Z'
 author: []
 related:
   - score: 0.709379077
@@ -36,33 +56,18 @@ related:
     thumbnail_height: 380
     thumbnail_url: 'http://www.ew.com/sites/default/files/styles/tout_image_612x380/public/i/2015/07/14/peele.jpg?itok=yFbUxwMx'
     thumbnail_width: 612
-publisher:
-  url: 'http://www.stylemepretty.com'
-  name: Style Me Pretty
-  favicon: 'http://cache.stylemepretty.com/images/favicon_32.png'
-  domain: www.stylemepretty.com
-keywords:
-  - wedding
-  - reception
-  - love
-  - julia
-  - bride
-  - groom
-  - indiana
-  - paper
-  - kuhlman
-  - mok
-description: "Obsessed doesn't even BEGIN to describe how I feel about this next wedding, photographed to perfection by Jeffrey and Julia Woods...two of our most loved Little Black Book photographers. This wedding is like the mecca of gorgeousness, with ideas and inspirations that you've seen around the web applied in such a cool, totally unique way."
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.stylemepretty.com/2010/10/15/indiana-wedding-by-jeffrey-and-julia-woods/'
 title: Indiana Wedding by Jeffrey and Julia Woods
-datePublished: '2015-07-15T21:31:36.842Z'
-dateModified: '2015-07-15T21:31:36.842Z'
 sourcePath: _posts/2015-07-15-indiana-wedding-by-jeffrey-and-julia-woods.md
 published: true
+authors: []
+publisher:
+  name: Style Me Pretty
+  domain: www.stylemepretty.com
+  url: 'http://www.stylemepretty.com'
+  favicon: 'http://cache.stylemepretty.com/images/favicon_32.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Indiana Wedding by Jeffrey and Julia Woods</h1><p>Obsessed doesn't even BEGIN to describe how I feel about this next wedding&amp;comma; photographed to perfection by Jeffrey and Julia Woods&amp;period;&amp;period;&amp;period;two of our most loved Little Black Book photographers&amp;period; This wedding is like the mecca of gorgeousness&amp;comma; with ideas and inspirations that you've seen around the web applied in such a cool&amp;comma; totally unique way&amp;period;</p><img src="http://o.aolcdn.com/smp/cache/wp-content/uploads/2010/10/Indiana-Wedding-1.jpg" /></article>
+<article style=""><h1>Indiana Wedding by Jeffrey and Julia Woods</h1><p>Obsessed doesn't even BEGIN to describe how I feel about this next wedding, photographed to perfection by Jeffrey and Julia Woods...two of our most loved Little Black Book photographers. This wedding is like the mecca of gorgeousness, with ideas and inspirations that you've seen around the web applied in such a cool, totally unique way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/032c9026c9f5c627df97491dd2b933a177bfed79.jpg" /></article>
