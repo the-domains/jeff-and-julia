@@ -4,7 +4,7 @@
         <description><![CDATA[The Woods Today]]></description>
         <link>http://thewoods.today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 19:52:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 20:06:27 GMT</lastBuildDate>
         <atom:link href="http://thewoods.today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a1871e3-fa30-4482-a07b-4ff49be2882d.gif</link>
             <guid isPermaLink="false">8efc6c68-1550-4a04-ae1f-4335936e8b08</guid>
             <pubDate>Thu, 07 Jan 2016 00:38:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Black Label from Jeffrey and Julia Woods]]></title>
+            <description><![CDATA[<article><h1>Black Label from Jeffrey and Julia Woods</h1><p>A new visual from our studios that we feel creates a greater documentation of your wedding day. It tells a different story that you just cant get from still images alone. It allows you to see what goes on behind those images. It enhances those relationships that mean everything to you as a bride and groom.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/154887af153973d4b1707acdd7753449c72eea8f.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=CZmwN5yVe0o</link>
+            <guid isPermaLink="false">7b6c1ccd-f3dc-475e-a175-5f5d3cccf86d</guid>
+            <pubDate>Thu, 07 Jan 2016 20:05:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[michelle and michael]]></title>
@@ -68,13 +75,6 @@
             <link>http://thewoods.today/jeffrey-and-julia-have-been-featured-in-rangefinder-profess/index.html</link>
             <guid isPermaLink="false">d3de286e-499b-433f-b448-bfa5c7422198</guid>
             <pubDate>Tue, 29 Dec 2015 06:14:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chicago Wedding Photographers | Jeffrey & Julia Woods]]></title>
-            <description><![CDATA[<article><h1>Chicago Wedding Photographers | Jeffrey & Julia Woods</h1><p>Hanson Fong told Chicago wedding photographers Jeffrey & Julia Woods early in their career that "If it frustrates you, change it." They did, and they are thriving. That statement gave us the permission we needed to recognize how frustrated we were by doing formal photographs at the alter.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce0216953e37af5f9161acbaf6041469934620fe.jpg"></article>]]></description>
-            <link>http://www.fearlessphotographers.com/blog/chicago-wedding-photographers-jeffrey-julia-woods/</link>
-            <guid isPermaLink="false">2129a498-eeca-4994-bc50-22d03d33b5f1</guid>
-            <pubDate>Wed, 30 Dec 2015 02:13:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
