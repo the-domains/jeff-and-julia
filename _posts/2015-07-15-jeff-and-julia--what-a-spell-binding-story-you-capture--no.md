@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://www.stylemepretty.com/little-black-book-blog/2009/01/28/we
 inLanguage: null
 starred: false
 keywords: []
-description: 'Jeff and Julia … what a spell-binding story you capture … not only in the events and emotions of the day, but in the very essence of those you photograph!'
-datePublished: '2016-01-07T20:10:01.985Z'
-dateModified: '2016-01-07T20:09:56.345Z'
+description: ''
+datePublished: '2016-01-07T20:12:11.688Z'
+dateModified: '2016-01-07T20:12:08.033Z'
 author: []
 title: '"Jeff and Julia … what a spell-binding story you capture … not only in the events and emotions of the day, but in the very essence of those you photograph!"- Style Me Pretty'
 sourcePath: _posts/2015-07-15-jeff-and-julia--what-a-spell-binding-story-you-capture--no.md
