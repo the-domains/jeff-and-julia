@@ -1,14 +1,10 @@
 ---
-author:
-  - name: jeffrey woods
-    url: 'http://vimeo.com/user20632242'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/151065214'
+inLanguage: en
+starred: false
 keywords:
   - stats
   - video
@@ -21,7 +17,13 @@ keywords:
   - file
   - advanced
 description: A new visual from our studiios that we feel creates a greater documentation of your wedding day. It tells a different story that you just cant get from still images alone. It allows you to see what goes on behind those images. It enhances those relationships that mean everything to you as a bride and groom.
-inLanguage: en
+datePublished: '2016-01-07T23:56:10.643Z'
+dateModified: '2016-01-07T23:56:06.333Z'
+author:
+  - name: jeffrey woods
+    url: 'http://vimeo.com/user20632242'
+    avatar: {}
+related: []
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/151065214'
     type: ios
@@ -32,15 +34,15 @@ app_links:
     type: web
     app_name: Vimeo
     package: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/151065214'
 title: Black Label from Jeffrey and Julia Woods
-datePublished: '2016-01-07T20:23:24.646Z'
-dateModified: '2016-01-07T20:21:55.506Z'
 sourcePath: _posts/2016-01-07-black-label-from-jeffrey-and-julia-woods.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
