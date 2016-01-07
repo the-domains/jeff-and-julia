@@ -17,8 +17,8 @@ keywords:
   - slideshow
   - wood
 description: "Jeff and Julia Woods have shared many of their gorgeous weddings with us, and today we're seriously delighted to show you this dreamy engagement shoot! Jeff wanted to be sure that all of you are aware of this relatively new spot ~ Solage Calistoga. The Solage website refers to it as a refreshing twist to [...]"
-datePublished: '2016-01-07T01:46:12.434Z'
-dateModified: '2015-12-30T20:55:06.211Z'
+datePublished: '2016-01-07T01:46:24.458Z'
+dateModified: '2016-01-07T01:46:20.860Z'
 author: []
 related: []
 app_links: []
