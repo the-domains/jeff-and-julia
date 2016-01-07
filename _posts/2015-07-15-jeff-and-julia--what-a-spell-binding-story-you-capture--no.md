@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-07T20:12:11.688Z'
-dateModified: '2016-01-07T20:12:08.033Z'
+datePublished: '2016-01-07T20:14:33.734Z'
+dateModified: '2016-01-07T20:14:29.817Z'
 author: []
 title: '"Jeff and Julia … what a spell-binding story you capture … not only in the events and emotions of the day, but in the very essence of those you photograph!"- Style Me Pretty'
 sourcePath: _posts/2015-07-15-jeff-and-julia--what-a-spell-binding-story-you-capture--no.md
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 ---
 > Jeff and Julia ... what a spell-binding story you capture ... not only in the events and emotions of the day, but in the very essence of those you photograph!"- Style Me Pretty
 
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4483c21d6de4aff3eba0d8c1ae119fda31c1d1da.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/da8d58192c0f37fc0d187d1f7c302f60c4f582b9.jpg)
