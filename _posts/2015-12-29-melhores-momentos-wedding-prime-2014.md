@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Confira os melhores momentos do Wedding Prime 2014, um evento que proporcionou experiências incomparáveis para fotógrafos de casamento em um confortável e belíssimo cenário. O Wedding Prime é um programa avançado de capacitação e reciclagem profissional. Com um formato único no Brasil, ele proporciona uma forte vivência na fotografia de casamento, a qual nenhum outro já proporcionou.'
-datePublished: '2016-01-08T02:25:35.903Z'
-dateModified: '2016-01-07T23:55:56.923Z'
+datePublished: '2016-01-08T18:35:13.947Z'
+dateModified: '2016-01-08T18:34:59.556Z'
 author:
   - name: Editora Photos
     url: 'http://vimeo.com/editoraphotos'
