@@ -17,8 +17,8 @@ keywords:
   - chic
   - special
 description: 'Over the past year, Julia and I have had something special in development. We have created something exclusive to offer our brides. You might of have seen it on our website or read about it in an interview done about Julia & I, by Modern Bride Magazine last year.'
-datePublished: '2016-01-08T04:11:00.838Z'
-dateModified: '2016-01-08T01:20:02.410Z'
+datePublished: '2016-01-08T17:46:29.372Z'
+dateModified: '2016-01-08T17:46:24.094Z'
 author:
   - name: jeffrey woods
     url: 'http://vimeo.com/user20632242'
@@ -44,7 +44,7 @@ app_links:
     type: web
     app_name: Vimeo
     package: com.vimeo.android.videoapp
-title: Black Label from Jeffrey and Julia Woods
+title: 'Black Label from Jeffrey & Julia Woods'
 sourcePath: _posts/2016-01-08-black-label-from-jeffrey-and-julia-woods.md
 published: true
 authors: []
