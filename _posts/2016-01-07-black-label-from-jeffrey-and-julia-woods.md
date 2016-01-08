@@ -17,8 +17,8 @@ keywords:
   - file
   - advanced
 description: A new visual from our studiios that we feel creates a greater documentation of your wedding day. It tells a different story that you just cant get from still images alone. It allows you to see what goes on behind those images. It enhances those relationships that mean everything to you as a bride and groom.
-datePublished: '2016-01-07T23:56:10.643Z'
-dateModified: '2016-01-07T23:56:06.333Z'
+datePublished: '2016-01-08T17:23:37.935Z'
+dateModified: '2016-01-08T17:18:07.284Z'
 author:
   - name: jeffrey woods
     url: 'http://vimeo.com/user20632242'
@@ -34,7 +34,7 @@ app_links:
     type: web
     app_name: Vimeo
     package: com.vimeo.android.videoapp
-title: Black Label from Jeffrey and Julia Woods
+title: 'Black Label from Jeffrey & Julia Woods'
 sourcePath: _posts/2016-01-07-black-label-from-jeffrey-and-julia-woods.md
 published: true
 authors: []
