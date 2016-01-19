@@ -1,29 +1,41 @@
-name: Jeff and Julia
-favicon: null
-layout_spectrum: 0.22643
-typography_spectrum: 1
 title: The Woods Today
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0
+  lightness: 1
+  brandColors:
+    - '#EACFBD'
+    - '#BDB3AC'
+    - '#4B9991'
+    - '#037877'
+    - '#5C5D6E'
+  rhythmicContrast: 0.75
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: Jeff and Julia
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3b3a36'
-    - '#b3c2bf'
-    - '#e9ece5'
-    - '#595c58'
-    - '#cad4cf'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 1
+layout_spectrum: 0.22643
