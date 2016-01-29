@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T00:25:43.543Z'
+datePublished: '2016-01-29T00:25:43.549Z'
 dateModified: '2016-01-29T00:25:39.187Z'
 title: '“You Suck” means you have plenty of opportunities. '
 author: []
