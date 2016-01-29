@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T00:06:58.557Z'
-dateModified: '2016-01-29T00:06:49.442Z'
+datePublished: '2016-01-29T00:15:43.075Z'
+dateModified: '2016-01-29T00:15:39.653Z'
 title: '“You Suck” means you have plenty of opportunities. '
 author: []
 sourcePath: _posts/2016-01-28-you-suck-means-you-have-plenty-of-opportunities.md
@@ -29,10 +29,9 @@ _type: WebPage
 - Jeff Woods Community Evangelist The Grid
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8617103-8bd8-488d-8b94-97b4fbf84374.jpg)
 
-When I first saw this tweet, my heart sank.However, I had a choice: get curious and ask questions or move on with disappointment. No one likes to hear that something you are building and putting so much time, energy, and money into, _sucks_. I got curious because I wanted to know more. I did not put on the gloves; I did not become defensive. I just sat silently and eagerly listened. 
+When I first saw this tweet, my heart sank. However, I had a choice: get curious and ask questions or move on with disappointment. No one likes to hear that something you are building and putting so much time, energy, and money into, _sucks_. I got curious because I wanted to know more. I did not put on the gloves; I did not become defensive. I just sat silently and eagerly listened. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41dd46bb-d0cc-4a90-8d0d-cc69fea6bd92.jpg)
 
 I walked away from that conversation motivated to "lean in". I realized that I was given a gift by entering into the struggle.That gift was insight, experience, & guidance from someone who wants what we are building actually to work.The raw honesty from our users is what we need to hear and is greatly appreciated. Insight like this directly influences how products are made. We know we're not perfect, which is why we're working so hard. We rely on our customer's immediate real authentic experiences. With this information it can ensure rapid iteration to correct those not so great experiences.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/75ed95da47c07b24d1d6e7193411861e4e182a03.png)
 
 Hearing from beta users "you suck" is one of the most valuable things any growing company can get because it leads us into how not to suck. It asks the questions:
 
@@ -43,7 +42,7 @@ What do users hate?
 Where are we failing?
 
 In this, we learn more about ourselves and how we can better execute. Creating a culture of greatness takes a community. Every story of success is a story of a community.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5996f7d3-6164-4e2f-8a1e-bf5678ed6a9e.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e47f270a-f3c6-4be6-b793-3cf8393a8562.jpg)
 
 ****
 
