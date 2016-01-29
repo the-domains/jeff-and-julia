@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T00:22:39.763Z'
-dateModified: '2016-01-29T00:22:36.780Z'
+datePublished: '2016-01-29T00:25:43.299Z'
+dateModified: '2016-01-29T00:25:39.187Z'
 title: '“You Suck” means you have plenty of opportunities. '
 author: []
 sourcePath: _posts/2016-01-28-you-suck-means-you-have-plenty-of-opportunities.md
@@ -43,9 +43,9 @@ What do users hate?
 Where are we failing?
 
 In this, we learn more about ourselves and how we can better execute. Creating a culture of greatness takes a community. Every story of success is a story of a community.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c126986-995c-4296-883d-69906b4d7232.jpg)
 
 You are right...it sucks in it's current state. It needs to be better. It is evolving everyday. We can't control people's perception of what we are building, but we can shape their perceptions by being vigilant, open, and honest. We need you as our current Founding Members who are beta users to keep going at it, we appreciate your constructive criticism in our pursuit of success.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c126986-995c-4296-883d-69906b4d7232.jpg)
 
 > Whatever we accomplish belongs to our entire group, a tribute to our combined effort. - Walt Disney
 
