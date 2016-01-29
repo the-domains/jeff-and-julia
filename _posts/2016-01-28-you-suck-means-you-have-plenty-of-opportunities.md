@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T00:57:57.984Z'
-dateModified: '2016-01-29T00:57:53.618Z'
+datePublished: '2016-01-29T00:58:50.991Z'
+dateModified: '2016-01-29T00:58:47.692Z'
 title: '“You Suck” means you have plenty of opportunities. '
 author: []
 sourcePath: _posts/2016-01-28-you-suck-means-you-have-plenty-of-opportunities.md
