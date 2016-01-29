@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T00:35:16.139Z'
-dateModified: '2016-01-29T00:35:11.813Z'
+datePublished: '2016-01-29T00:37:41.250Z'
+dateModified: '2016-01-29T00:37:37.641Z'
 title: '“You Suck” means you have plenty of opportunities. '
 author: []
 sourcePath: _posts/2016-01-28-you-suck-means-you-have-plenty-of-opportunities.md
@@ -36,13 +36,13 @@ I walked away from that conversation motivated to "lean in". I realized that I w
 
 Hearing from beta users "you suck" is one of the most valuable things any growing company can get because it leads us into how not to suck. It asks the questions:
 
-* ****What do users want?
+****What do users want?
 
-* What do users hate?
+What do users hate?
 
 ****
 
-* Where are we failing?
+Where are we failing?
 
 In this, we learn more about ourselves and how we can better execute. Creating a culture of greatness takes a community. Every story of success is a story of a community.Where are we failing?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f352ace8-58b0-4d65-b34d-3bbfb02a53d6.jpg)
