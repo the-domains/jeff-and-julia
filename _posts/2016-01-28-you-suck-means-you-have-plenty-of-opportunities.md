@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T00:37:41.592Z'
-dateModified: '2016-01-29T00:37:37.641Z'
+datePublished: '2016-01-29T00:57:57.932Z'
+dateModified: '2016-01-29T00:57:53.618Z'
 title: '“You Suck” means you have plenty of opportunities. '
 author: []
 sourcePath: _posts/2016-01-28-you-suck-means-you-have-plenty-of-opportunities.md
@@ -26,7 +26,7 @@ _type: WebPage
 
 ****
 
-- Jeff Woods Community Evangelist The Grid
+Jeff Woods Community Evangelist The Grid
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c44ad7366fb0ebcbd7fbd37b66b1f52d09d4c693.jpg)
 
 When I first saw this tweet, my heart sank. However, I had a choice: get curious and ask questions or move on with disappointment. No one likes to hear that something you are building and putting so much time, energy, and money into, _sucks_. I got curious because I wanted to know more. I did not put on the gloves; I did not become defensive. I just sat silently and eagerly listened. 
@@ -45,7 +45,7 @@ What do users hate?
 Where are we failing?
 
 In this, we learn more about ourselves and how we can better execute. Creating a culture of greatness takes a community. Every story of success is a story of a community.Where are we failing?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f352ace8-58b0-4d65-b34d-3bbfb02a53d6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ddb6a16-1805-4502-ae9f-8dc6249bce67.jpg)
 
 You are right...it sucks in it's current state. It needs to be better. It is evolving everyday. We can't control people's perception of what we are building, but we can shape their perceptions by being vigilant, open, and honest. We need you as our current Founding Members who are beta users to keep going at it, we appreciate your constructive criticism in our pursuit of success.
 
