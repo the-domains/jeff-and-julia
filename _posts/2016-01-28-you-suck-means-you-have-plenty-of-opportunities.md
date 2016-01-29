@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T00:38:28.748Z'
-dateModified: '2016-01-29T00:38:26.170Z'
+datePublished: '2016-01-29T00:37:41.592Z'
+dateModified: '2016-01-29T00:37:37.641Z'
 title: '“You Suck” means you have plenty of opportunities. '
 author: []
 sourcePath: _posts/2016-01-28-you-suck-means-you-have-plenty-of-opportunities.md
@@ -26,7 +26,7 @@ _type: WebPage
 
 ****
 
-Jeff Woods Community Evangelist The Grid
+- Jeff Woods Community Evangelist The Grid
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c44ad7366fb0ebcbd7fbd37b66b1f52d09d4c693.jpg)
 
 When I first saw this tweet, my heart sank. However, I had a choice: get curious and ask questions or move on with disappointment. No one likes to hear that something you are building and putting so much time, energy, and money into, _sucks_. I got curious because I wanted to know more. I did not put on the gloves; I did not become defensive. I just sat silently and eagerly listened. 
