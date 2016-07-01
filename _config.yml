@@ -2,6 +2,7 @@ name: Jeff and Julia
 favicon: null
 layout_spectrum: 0.44683
 typography_spectrum: 1
+style: the-composer
 title: The Woods Today
 collections:
   - index:
